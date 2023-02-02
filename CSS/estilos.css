@@ -73,7 +73,7 @@ header hgroup h2 {
 }
 
 #cv {
-    color: rgb(247, 242, 242);
+    color: rgb(17, 16, 16);
     width: 45px;
     height: 55px;
     /* IE 9 */
@@ -81,7 +81,7 @@ header hgroup h2 {
     /* Chrome, Safari, Opera */
     /*-webkit-transform: rotate(15deg); */ 
    /* transform: rotate(15deg);*/
-    box-shadow: 1px 1px 1px #f5f3f3;
+    box-shadow: 1px 1px 1px #0c0c0c;
   }
 
 /***************
